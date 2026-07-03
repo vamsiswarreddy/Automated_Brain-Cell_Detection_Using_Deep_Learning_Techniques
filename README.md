@@ -1,4 +1,3 @@
-# Automated_Brain-Cell_Detection_Using_Deep_Learning_Techniques
 # 🧠 Automated Brain Cell Detection Using Deep Learning Techniques
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
